@@ -1,4 +1,4 @@
-# Personal Portfolio 👨🏿‍💻
+# SPA Zumba Instructor 👨🏿‍💻
 
 > Check it out [here](https://lydiarodriguez.netlify.app)
 
