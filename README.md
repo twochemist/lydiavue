@@ -1,4 +1,4 @@
-# SPA Zumba Instructor 👨🏿‍💻
+# SPA Zumba Instructor 💃🏻
 
 > Check it out [here](https://lydiarodriguez.netlify.app)
 
@@ -37,4 +37,4 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 ### Author
 
-Made with ❤ and ☕️ by [Chemist Dev](https://twitter.com/)
+Made with ☕️ by [Chemist Dev](https://twitter.com/)
