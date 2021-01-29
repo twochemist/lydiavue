@@ -1,4 +1,4 @@
-# SPA Zumba Instructor 💃🏿‍💻
+# SPA Zumba Instructor 💃
 
 > Check it out [here](https://lydiarodriguez.netlify.app)
 
