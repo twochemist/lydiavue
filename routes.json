@@ -1,0 +1,32 @@
+[
+  {
+    "name": "About",
+    "path": "/About",
+    "component": "C:\\\\Users\\\\arjon\\\\Documents\\\\Web Development\\\\Lydia\\\\portfolio-master\\\\pages\\\\About.vue",
+    "chunkName": "pages/About"
+  },
+  {
+    "name": "Articles",
+    "path": "/Articles",
+    "component": "C:\\\\Users\\\\arjon\\\\Documents\\\\Web Development\\\\Lydia\\\\portfolio-master\\\\pages\\\\Articles.vue",
+    "chunkName": "pages/Articles"
+  },
+  {
+    "name": "Contact",
+    "path": "/Contact",
+    "component": "C:\\\\Users\\\\arjon\\\\Documents\\\\Web Development\\\\Lydia\\\\portfolio-master\\\\pages\\\\Contact.vue",
+    "chunkName": "pages/Contact"
+  },
+  {
+    "name": "Projects",
+    "path": "/Projects",
+    "component": "C:\\\\Users\\\\arjon\\\\Documents\\\\Web Development\\\\Lydia\\\\portfolio-master\\\\pages\\\\Projects.vue",
+    "chunkName": "pages/Projects"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\arjon\\\\Documents\\\\Web Development\\\\Lydia\\\\portfolio-master\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
