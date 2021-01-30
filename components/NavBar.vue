@@ -1,7 +1,7 @@
 <template>
   <b-navbar toggleable="lg" fixed="top" type="light" variant="light">
     <b-navbar-brand tag="h1" to="/" style="font-weight: bolder"
-      >> LYDIA RODRIGUEZ | Zumba Instructor</b-navbar-brand
+      >> LYDIA | Zumba </b-navbar-brand
     >
     <b-navbar-toggle
       target="nav-collapse"
